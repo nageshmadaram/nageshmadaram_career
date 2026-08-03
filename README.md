@@ -1,13 +1,15 @@
-# nageshmadaram_career
+# Nagesh Madaram Career OS
 
-Career OS repository for Nagesh Madaram.
+This repository contains my professional career assets.
 
-## Contents
-- Resume source files
-- LinkedIn profile source
-- Sterling project notes
-- Interview preparation notes
-- Build scripts
+## Structure
+
+- resume/
+- linkedin/
+- portfolio/
+- projects/sterling/
+- interviews/
 
 ## Build
-This repository is intended to host version-controlled career assets and resume source files.
+
+Resume sources are intended to generate PDF and DOCX variants.
